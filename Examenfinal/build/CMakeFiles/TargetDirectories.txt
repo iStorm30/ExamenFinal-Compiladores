@@ -1,0 +1,3 @@
+/home/kevint/Examenfinal/build/CMakeFiles/prog.dir
+/home/kevint/Examenfinal/build/CMakeFiles/edit_cache.dir
+/home/kevint/Examenfinal/build/CMakeFiles/rebuild_cache.dir

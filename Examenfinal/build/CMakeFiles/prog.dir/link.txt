@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/prog.dir/grammar/libs/SimpleLanguageBaseVisitor.cpp.o CMakeFiles/prog.dir/grammar/libs/SimpleLanguageLexer.cpp.o CMakeFiles/prog.dir/grammar/libs/SimpleLanguageParser.cpp.o CMakeFiles/prog.dir/grammar/libs/SimpleLanguageVisitor.cpp.o -o prog  -lantlr4-runtime -lLLVM-15 
